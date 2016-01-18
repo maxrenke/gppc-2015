@@ -1,0 +1,1 @@
+./gppc-2015-submission/weightedAStar_5/wAStar_5 -full map-read-only/"$1"/"$2" scenarios-read-only/"$1"/"$2".scen > w5/w5_"$1"_"$2"_result.txt

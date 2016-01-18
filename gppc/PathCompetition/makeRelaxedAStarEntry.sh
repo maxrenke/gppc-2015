@@ -1,0 +1,1 @@
+g++ gppc-2014/entries/RelaxedAstar_iroboapp/main.cpp gppc-2014/entries/RelaxedAstar_iroboapp/Entry.cpp gppc-2014/entries/RelaxedAstar_iroboapp/ScenarioLoader.cpp gppc-2014/entries/RelaxedAstar_iroboapp/Timer.cpp

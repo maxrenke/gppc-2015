@@ -1,0 +1,11 @@
+speedy da2 ca_cave.map total_time 0.079753 suboptimality 1.10923582833
+w1_1 da2 ca_cave.map total_time 0.065103 suboptimality 1.077994355
+w4 da2 ca_cave.map total_time 0.050504 suboptimality 1.077994355
+w5 da2 ca_cave.map total_time 0.049356 suboptimality 1.077994355
+rabinastar da2 ca_cave.map total_time 0.211128 suboptimality 0.296403391667
+speedy da2 ca_cavern1_haunted.map total_time 2.060379 suboptimality 1.18521765135
+w1_1 da2 ca_cavern1_haunted.map total_time 2.702681 suboptimality 1.23233195946
+w4 da2 ca_cavern1_haunted.map total_time 2.699522 suboptimality 1.23450996351
+w5 da2 ca_cavern1_haunted.map total_time 2.717299 suboptimality 1.23443835495
+rabinastar da2 ca_cavern1_haunted.map total_time 2.474407 suboptimality 0.204503675225
+speedy da2 ca_caverns1.map total_time 2.056846 suboptimality 1.17695215067

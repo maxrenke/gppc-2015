@@ -1,0 +1,1 @@
+g++ -Wno-deprecated main.cpp Timer.cpp ScenarioLoader.cpp gppc-2014/entries/Rabin_AStarEntry/Entry.cpp gppc-2014/entries/Rabin_AStarEntry/BucketPriorityQueue.cpp gppc-2014/entries/Rabin_AStarEntry/UnsortedPriorityQueue.cpp gppc-2014/entries/Rabin_AStarEntry/GenericHeap.cpp gppc-2014/entries/Rabin_AStarEntry/FastAStar.cpp

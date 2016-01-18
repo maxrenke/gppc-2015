@@ -1,0 +1,12 @@
+#echo "$1"
+#echo "$2"
+./speedy.sh $@
+#echo "speedy/Speedy_"$1"_"$2"_result.txt"
+./w1_1.sh $@
+#echo "w1/w1_"$1"_"$2"_result.txt"
+./w4.sh $@
+#echo "w4/w4_"$1"_"$2"_result.txt"
+./w5.sh $@
+#echo "w5/w5_"$1"_"$2"_result.txt"
+./rabinastar.sh $@
+#echo "rabinastar/rabinastar_"$1"_"$2"_result.txt"

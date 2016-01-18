@@ -1,0 +1,38 @@
+CS830 Final Project
+Maxwell Renke
+mcl83@wildcats.unh.edu
+
+Grid-Based Path-Planning Competition
+movingai.com/GPPC/
+
+Please download map-read-only/ and scenario-read-only/ from the GPPC and place it in the same directory as this README from http://movingai.com/GPPC/path.zip
+
+To compile Speedy, w1_1, w4, w5, use:
+
+make -C gppc-2015-submission/Speedy/
+
+or use make.sh
+
+NOTE: For better performance please add "-O3" to the Makefile of these directories
+
+makeRabinAStarEntry - script to compile Rabin A* without bucketlist
+
+makeRabinAStarBucketEntry - script to compile Rabin A* with bucketlist
+
+For speedy.sh, w1.sh, w4.sh, w5.sh, and rabin.sh, use the following usage:
+
+[...].sh map_folder_name map_name
+
+e.g. ./speedy.sh wc3maps512 moonglade.map_folder_name
+
+results.py - python script to spawn scripts for Speedy, w1_1, w4, w5, and rabin A* on a given map instance
+
+Pass results.py the same arguments to get the averages from each map instance.
+
+all.sh - script used by results.py to spawn all scripts 
+
+This is used by results.py to run each algorithm on the map, and then results.py will take the average and output it.
+
+wc3maps512.sh, sc1.sh, dao.sh, random.sh - these all spawn results.py for each instance in the respective map folder
+
+configure.sh - creates the directories speedy, w1_1, w4, w5, and rabinastar

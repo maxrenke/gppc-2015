@@ -1,0 +1,1 @@
+./gppc-2015-submission/weightedAStar_4/wAStar_4 -full map-read-only/"$1"/"$2" scenarios-read-only/"$1"/"$2".scen > w4/w4_"$1"_"$2"_result.txt
